@@ -21,7 +21,6 @@
   <img src="https://img.shields.io/badge/pandas-0891B2?style=flat" alt="pandas">
   <img src="https://img.shields.io/badge/scikit--learn-0891B2?style=flat" alt="scikit-learn">
   <img src="https://img.shields.io/badge/Power%20BI-0891B2?style=flat" alt="Power BI">
-  <img src="https://img.shields.io/badge/Claude%20API-0891B2?style=flat" alt="Claude API">
   <img src="https://img.shields.io/badge/AWS-0891B2?style=flat" alt="AWS">
   <img src="https://img.shields.io/badge/Azure-0891B2?style=flat" alt="Azure">
   <img src="https://img.shields.io/badge/Docker-0891B2?style=flat" alt="Docker">
